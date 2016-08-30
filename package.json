@@ -1,0 +1,16 @@
+{
+  "name": "Angular1_sample",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "robertkawalec",
+  "contributors": [],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
