@@ -17,6 +17,9 @@
     "lite-server": "^2.2.2"
   },
   "scripts": {
+      
+    "prestart": "npm install",
+    
     "start": "npm run lite",
     "lite": "lite-server"
   }
