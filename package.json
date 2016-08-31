@@ -1,6 +1,6 @@
 {
   "name": "Angular1_sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "util",
     "functional",
@@ -12,5 +12,12 @@
   "contributors": [],
   "dependencies": {
     "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
   }
 }
